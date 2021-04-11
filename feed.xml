@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Ryan&#x27;s Blog</title>
+    <link href="https://ryan.gamnation.net/feed.xml" rel="self" />
+    <link href="https://ryan.gamnation.net" />
+    <updated>2021-04-10T22:26:20-07:00</updated>
+    <author>
+        <name>Ryan Gammon</name>
+    </author>
+    <id>https://ryan.gamnation.net</id>
+
+    <entry>
+        <title>Hello world!</title>
+        <author>
+            <name>Ryan Gammon</name>
+        </author>
+        <link href="https://ryan.gamnation.net/hello-world.html"/>
+        <id>https://ryan.gamnation.net/hello-world.html</id>
+
+        <updated>2021-04-10T22:26:20-07:00</updated>
+            <summary>
+                <![CDATA[
+                    First post!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>First post!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

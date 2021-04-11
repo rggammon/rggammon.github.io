@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ryan.gamnation.net/sitemap.xml
